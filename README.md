@@ -8,7 +8,9 @@ A pool of 5 processes predicts the rating for each combination of movie and user
 
 Type the following line:
 
-"python CollabFinal.py <name of file with training data> <name of file with test data>"
+"python CollabFinal.py train.txt test.txt"
+
+where train.txt has the training data and test,txt has the test data.
 
 The script uses Python 3 syntax, and the data is in the format that is used in the Netflix Prize data.
 
