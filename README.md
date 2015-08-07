@@ -1,6 +1,6 @@
 # Summary
 
-Implement a recommender system that uses stastical collaborative filtering, and evaluate it's performance using the Absolute Mean Error and the Root Mean Square Error metrics.
+Implements a recommender system that uses stastical collaborative filtering, and evaluates it's performance using the Absolute Mean Error and the Root Mean Square Error metrics.
 
 A pool of 5 processes predicts the rating for each combination of movie and user. As you know, multiprocessing is awesome.
 
